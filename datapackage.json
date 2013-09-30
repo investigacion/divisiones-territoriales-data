@@ -1,0 +1,58 @@
+{
+	"name": "divisiones-territoriales-costa-rica",
+	"datapackage_version": "1.0-beta.5",
+	"title": "Divisiones territoriales de Costa Rica",
+	"description": "Divisiones territoriales de Costa Rica: provincias, cantones y distritos. (Territorial divisions of Costa Rica.)",
+	"version": "0.0.1",
+	"keywords": [
+		"costa rica",
+		"administrative",
+		"subdivisions"
+	],
+	"licenses": [
+		{
+			"id": "odc-by",
+			"url": "http://opendatacommons.org/licenses/by/1.0/",
+			"name": "Open Data Commons Attribution License",
+			"version": "1.0"
+		}
+	],
+	"sources": [
+		{
+			"name": "División Territorial Administrativa de Costa Rica",
+			"web": "http://www.ifam.go.cr/PaginaIFAM/ifams/Descargas/CDI/Legal/Divisi%C3%B3n%20Territorial%20CR%20%20Publicado%20en%20La%20Gaceta%2026%20mayo%202009.pdf"
+		}
+	],
+	"contributors":[
+		{
+			"name": "Matthew Caruana Galizia",
+			"email": "m@m.cg",
+			"web": "http://m.cg/"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "Matthew Caruana Galizia",
+			"email": "m@m.cg",
+			"web": "http://m.cg/"
+		}
+	],
+	"resources": [
+		{
+			"path": "data/csv/adm1-provincias.csv",
+			"format": "csv"
+		},
+		{
+			"path": "data/csv/adm2-cantones.csv",
+			"format": "csv"
+		},
+		{
+			"path": "data/csv/adm2-gadm.csv",
+			"format": "csv"
+		},
+		{
+			"path": "data/csv/adm3-distritos.csv",
+			"format": "csv"
+		}
+	]
+}
