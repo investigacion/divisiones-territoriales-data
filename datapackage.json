@@ -53,6 +53,22 @@
 		{
 			"path": "data/csv/adm3-distritos.csv",
 			"format": "csv"
+		},
+		{
+			"path": "data/json/adm1-provincias.json",
+			"format": "json"
+		},
+		{
+			"path": "data/json/adm2-cantones.json",
+			"format": "json"
+		},
+		{
+			"path": "data/json/adm2-gadm.json",
+			"format": "json"
+		},
+		{
+			"path": "data/json/adm3-distritos.json",
+			"format": "json"
 		}
 	]
 }

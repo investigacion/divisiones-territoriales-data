@@ -1,0 +1,488 @@
+{
+	"101": {
+		"Provincia": "1",
+		"Nombre": "San José",
+		"Área (km2)": "44.62",
+		"Pop. (2008)": "352366"
+	},
+	"102": {
+		"Provincia": "1",
+		"Nombre": "Escazú",
+		"Área (km2)": "34.49",
+		"Pop. (2008)": "60201"
+	},
+	"103": {
+		"Provincia": "1",
+		"Nombre": "Desamparados",
+		"Área (km2)": "118.26",
+		"Pop. (2008)": "221346"
+	},
+	"104": {
+		"Provincia": "1",
+		"Nombre": "Puriscal",
+		"Área (km2)": "553.66",
+		"Pop. (2008)": "32767"
+	},
+	"105": {
+		"Provincia": "1",
+		"Nombre": "Tarrazú",
+		"Área (km2)": "297.5",
+		"Pop. (2008)": "16419"
+	},
+	"106": {
+		"Provincia": "1",
+		"Nombre": "Aserrí",
+		"Área (km2)": "167.1",
+		"Pop. (2008)": "56422"
+	},
+	"107": {
+		"Provincia": "1",
+		"Nombre": "Mora",
+		"Área (km2)": "162.04",
+		"Pop. (2008)": "24333"
+	},
+	"108": {
+		"Provincia": "1",
+		"Nombre": "Goicoechea",
+		"Área (km2)": "31.5",
+		"Pop. (2008)": "131529"
+	},
+	"109": {
+		"Provincia": "1",
+		"Nombre": "Santa Ana",
+		"Área (km2)": "61.42",
+		"Pop. (2008)": "39905"
+	},
+	"110": {
+		"Provincia": "1",
+		"Nombre": "Alajuelita",
+		"Área (km2)": "21.17",
+		"Pop. (2008)": "81721"
+	},
+	"111": {
+		"Provincia": "1",
+		"Nombre": "Vázquez de Coronado",
+		"Área (km2)": "222.2",
+		"Pop. (2008)": "63098"
+	},
+	"112": {
+		"Provincia": "1",
+		"Nombre": "Acosta",
+		"Área (km2)": "342.24",
+		"Pop. (2008)": "20906"
+	},
+	"113": {
+		"Provincia": "1",
+		"Nombre": "Tibás",
+		"Área (km2)": "8.15",
+		"Pop. (2008)": "81478"
+	},
+	"114": {
+		"Provincia": "1",
+		"Nombre": "Moravia",
+		"Área (km2)": "28.62",
+		"Pop. (2008)": "55895"
+	},
+	"115": {
+		"Provincia": "1",
+		"Nombre": "Montes de Oca",
+		"Área (km2)": "15.16",
+		"Pop. (2008)": "55814"
+	},
+	"116": {
+		"Provincia": "1",
+		"Nombre": "Turrubares",
+		"Área (km2)": "415.29",
+		"Pop. (2008)": "5482"
+	},
+	"117": {
+		"Provincia": "1",
+		"Nombre": "Dota",
+		"Área (km2)": "400.22",
+		"Pop. (2008)": "7465"
+	},
+	"118": {
+		"Provincia": "1",
+		"Nombre": "Curridabat",
+		"Área (km2)": "15.95",
+		"Pop. (2008)": "69474"
+	},
+	"119": {
+		"Provincia": "1",
+		"Nombre": "Pérez Zeledón",
+		"Área (km2)": "1905.51",
+		"Pop. (2008)": "140872"
+	},
+	"120": {
+		"Provincia": "1",
+		"Nombre": "León Cortés Castro",
+		"Área (km2)": "120.8",
+		"Pop. (2008)": "13288"
+	},
+	"201": {
+		"Provincia": "2",
+		"Nombre": "Alajuela",
+		"Área (km2)": "388.43",
+		"Pop. (2008)": "255598"
+	},
+	"202": {
+		"Provincia": "2",
+		"Nombre": "San Ramón",
+		"Área (km2)": "1018.64",
+		"Pop. (2008)": "77380"
+	},
+	"203": {
+		"Provincia": "2",
+		"Nombre": "Grecia",
+		"Área (km2)": "395.72",
+		"Pop. (2008)": "74860"
+	},
+	"204": {
+		"Provincia": "2",
+		"Nombre": "San Mateo",
+		"Área (km2)": "125.9",
+		"Pop. (2008)": "5904"
+	},
+	"205": {
+		"Provincia": "2",
+		"Nombre": "Atenas",
+		"Área (km2)": "127.19",
+		"Pop. (2008)": "25033"
+	},
+	"206": {
+		"Provincia": "2",
+		"Nombre": "Naranjo",
+		"Área (km2)": "126.62",
+		"Pop. (2008)": "42637"
+	},
+	"207": {
+		"Provincia": "2",
+		"Nombre": "Palmares",
+		"Área (km2)": "38.06",
+		"Pop. (2008)": "33401"
+	},
+	"208": {
+		"Provincia": "2",
+		"Nombre": "Poás",
+		"Área (km2)": "73.84",
+		"Pop. (2008)": "28469"
+	},
+	"209": {
+		"Provincia": "2",
+		"Nombre": "Orotina",
+		"Área (km2)": "141.92",
+		"Pop. (2008)": "17866"
+	},
+	"210": {
+		"Provincia": "2",
+		"Nombre": "San Carlos",
+		"Área (km2)": "3347.98",
+		"Pop. (2008)": "151322"
+	},
+	"211": {
+		"Provincia": "2",
+		"Nombre": "Alfaro Ruiz",
+		"Área (km2)": "155.13",
+		"Pop. (2008)": "12368"
+	},
+	"212": {
+		"Provincia": "2",
+		"Nombre": "Valverde Vega",
+		"Área (km2)": "120.25",
+		"Pop. (2008)": "18407"
+	},
+	"213": {
+		"Provincia": "2",
+		"Nombre": "Upala",
+		"Área (km2)": "1580.67",
+		"Pop. (2008)": "44556"
+	},
+	"214": {
+		"Provincia": "2",
+		"Nombre": "Los Chiles",
+		"Área (km2)": "1358.86",
+		"Pop. (2008)": "23902"
+	},
+	"215": {
+		"Provincia": "2",
+		"Nombre": "Guatuso",
+		"Área (km2)": "758.32",
+		"Pop. (2008)": "15068"
+	},
+	"301": {
+		"Provincia": "3",
+		"Nombre": "Cartago",
+		"Área (km2)": "287.77",
+		"Pop. (2008)": "149657"
+	},
+	"302": {
+		"Provincia": "3",
+		"Nombre": "Paraíso",
+		"Área (km2)": "411.91",
+		"Pop. (2008)": "60005"
+	},
+	"303": {
+		"Provincia": "3",
+		"Nombre": "La Unión",
+		"Área (km2)": "44.83",
+		"Pop. (2008)": "91090"
+	},
+	"304": {
+		"Provincia": "3",
+		"Nombre": "Jiménez",
+		"Área (km2)": "286.43",
+		"Pop. (2008)": "15859"
+	},
+	"305": {
+		"Provincia": "3",
+		"Nombre": "Turrialba",
+		"Área (km2)": "1642.67",
+		"Pop. (2008)": "78217"
+	},
+	"306": {
+		"Provincia": "3",
+		"Nombre": "Alvarado",
+		"Área (km2)": "81.06",
+		"Pop. (2008)": "13862"
+	},
+	"307": {
+		"Provincia": "3",
+		"Nombre": "Oreamuno",
+		"Área (km2)": "202.31",
+		"Pop. (2008)": "44403"
+	},
+	"308": {
+		"Provincia": "3",
+		"Nombre": "El Guarco",
+		"Área (km2)": "167.69",
+		"Pop. (2008)": "39223"
+	},
+	"401": {
+		"Provincia": "4",
+		"Nombre": "Heredia",
+		"Área (km2)": "282.6",
+		"Pop. (2008)": "118872"
+	},
+	"402": {
+		"Provincia": "4",
+		"Nombre": "Barva",
+		"Área (km2)": "53.8",
+		"Pop. (2008)": "37041"
+	},
+	"403": {
+		"Provincia": "4",
+		"Nombre": "Santo Domingo",
+		"Área (km2)": "24.84",
+		"Pop. (2008)": "38959"
+	},
+	"404": {
+		"Provincia": "4",
+		"Nombre": "Santa Bárbara",
+		"Área (km2)": "53.21",
+		"Pop. (2008)": "33334"
+	},
+	"405": {
+		"Provincia": "4",
+		"Nombre": "San Rafael",
+		"Área (km2)": "48.39",
+		"Pop. (2008)": "42398"
+	},
+	"406": {
+		"Provincia": "4",
+		"Nombre": "San Isidro",
+		"Área (km2)": "26.96",
+		"Pop. (2008)": "18028"
+	},
+	"407": {
+		"Provincia": "4",
+		"Nombre": "Belén",
+		"Área (km2)": "12.15",
+		"Pop. (2008)": "22400"
+	},
+	"408": {
+		"Provincia": "4",
+		"Nombre": "Flores",
+		"Área (km2)": "6.96",
+		"Pop. (2008)": "17298"
+	},
+	"409": {
+		"Provincia": "4",
+		"Nombre": "San Pablo",
+		"Área (km2)": "7.53",
+		"Pop. (2008)": "23370"
+	},
+	"410": {
+		"Provincia": "4",
+		"Nombre": "Sarapiquí",
+		"Área (km2)": "2140.54",
+		"Pop. (2008)": "54537"
+	},
+	"501": {
+		"Provincia": "5",
+		"Nombre": "Liberia",
+		"Área (km2)": "1436.47",
+		"Pop. (2008)": "55921"
+	},
+	"502": {
+		"Provincia": "5",
+		"Nombre": "Nicoya",
+		"Área (km2)": "1333.68",
+		"Pop. (2008)": "47823"
+	},
+	"503": {
+		"Provincia": "5",
+		"Nombre": "Santa Cruz",
+		"Área (km2)": "1312.27",
+		"Pop. (2008)": "46460"
+	},
+	"504": {
+		"Provincia": "5",
+		"Nombre": "Bagaces",
+		"Área (km2)": "1273.49",
+		"Pop. (2008)": "18368"
+	},
+	"505": {
+		"Provincia": "5",
+		"Nombre": "Carrillo",
+		"Área (km2)": "577.54",
+		"Pop. (2008)": "32168"
+	},
+	"506": {
+		"Provincia": "5",
+		"Nombre": "Cañas",
+		"Área (km2)": "682.2",
+		"Pop. (2008)": "27970"
+	},
+	"507": {
+		"Provincia": "5",
+		"Nombre": "Abangares",
+		"Área (km2)": "675.76",
+		"Pop. (2008)": "18319"
+	},
+	"508": {
+		"Provincia": "5",
+		"Nombre": "Tilarán",
+		"Área (km2)": "638.39",
+		"Pop. (2008)": "20337"
+	},
+	"509": {
+		"Provincia": "5",
+		"Nombre": "Nandayure",
+		"Área (km2)": "565.59",
+		"Pop. (2008)": "11185"
+	},
+	"510": {
+		"Provincia": "5",
+		"Nombre": "La Cruz",
+		"Área (km2)": "1383.9",
+		"Pop. (2008)": "19978"
+	},
+	"511": {
+		"Provincia": "5",
+		"Nombre": "Hojancha",
+		"Área (km2)": "261.42",
+		"Pop. (2008)": "7289"
+	},
+	"601": {
+		"Provincia": "6",
+		"Nombre": "Puntarenas",
+		"Área (km2)": "1842.33",
+		"Pop. (2008)": "118928"
+	},
+	"602": {
+		"Provincia": "6",
+		"Nombre": "Esparza",
+		"Área (km2)": "216.8",
+		"Pop. (2008)": "27199"
+	},
+	"603": {
+		"Provincia": "6",
+		"Nombre": "Buenos Aires",
+		"Área (km2)": "2384.22",
+		"Pop. (2008)": "47576"
+	},
+	"604": {
+		"Provincia": "6",
+		"Nombre": "Montes de Oro",
+		"Área (km2)": "244.76",
+		"Pop. (2008)": "12495"
+	},
+	"605": {
+		"Provincia": "6",
+		"Nombre": "Osa",
+		"Área (km2)": "1930.24",
+		"Pop. (2008)": "29547"
+	},
+	"606": {
+		"Provincia": "6",
+		"Nombre": "Aguirre",
+		"Área (km2)": "543.77",
+		"Pop. (2008)": "23915"
+	},
+	"607": {
+		"Provincia": "6",
+		"Nombre": "Golfito",
+		"Área (km2)": "1753.96",
+		"Pop. (2008)": "39699"
+	},
+	"608": {
+		"Provincia": "6",
+		"Nombre": "Coto Brus",
+		"Área (km2)": "933.91",
+		"Pop. (2008)": "47247"
+	},
+	"609": {
+		"Provincia": "6",
+		"Nombre": "Parrita",
+		"Área (km2)": "478.79",
+		"Pop. (2008)": "13940"
+	},
+	"610": {
+		"Provincia": "6",
+		"Nombre": "Corredores",
+		"Área (km2)": "620.6",
+		"Pop. (2008)": "44180"
+	},
+	"611": {
+		"Provincia": "6",
+		"Nombre": "Garabito",
+		"Área (km2)": "316.31",
+		"Pop. (2008)": "13165"
+	},
+	"701": {
+		"Provincia": "7",
+		"Nombre": "Limón",
+		"Área (km2)": "1765.79",
+		"Pop. (2008)": "106356"
+	},
+	"702": {
+		"Provincia": "7",
+		"Nombre": "Pococí",
+		"Área (km2)": "2403.49",
+		"Pop. (2008)": "121735"
+	},
+	"703": {
+		"Provincia": "7",
+		"Nombre": "Siquirres",
+		"Área (km2)": "860.19",
+		"Pop. (2008)": "60881"
+	},
+	"704": {
+		"Provincia": "7",
+		"Nombre": "Talamanca",
+		"Área (km2)": "2809.93",
+		"Pop. (2008)": "32158"
+	},
+	"705": {
+		"Provincia": "7",
+		"Nombre": "Matina",
+		"Área (km2)": "772.64",
+		"Pop. (2008)": "39961"
+	},
+	"706": {
+		"Provincia": "7",
+		"Nombre": "Guácimo",
+		"Área (km2)": "576.48",
+		"Pop. (2008)": "41082"
+	}
+}

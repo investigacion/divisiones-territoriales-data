@@ -1,0 +1,8 @@
+{
+	"private": true,
+	"name": "divisiones-territoriales-data",
+	"version": "0.0.1",
+	"devDependencies": {
+		"dsv": "0.x"
+	}
+}
