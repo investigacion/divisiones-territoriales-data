@@ -6,6 +6,10 @@ Base de datos de provincias, cantones y distritos de Costa Rica, con los nombres
 
 Mantenido por [Matthew Caruana Galizia](https://twitter.com/mcaruanagalizia).
 
+## JSON ##
+
+Exactamente como CSV, pero con el código como clave.
+
 ## CSV ##
 
 ### adm1-provincias.csv ###
