@@ -8,7 +8,7 @@ Mantenido por [Matthew Caruana Galizia](https://twitter.com/mcaruanagalizia).
 
 ## JSON ##
 
-Exactamente como CSV, pero con el código como clave.
+Exactamente como el CSV, pero con el código como clave.
 
 ## CSV ##
 
@@ -18,13 +18,13 @@ Las siete provincias de Costa Rica.
 
 ### adm2-cantones.csv ###
 
-Las 81 cantones de Costa Rica. En el campo `Provincia` se encuentra el código para el campo correspondiente en la tabla de provincias.
+Los 81 cantones de Costa Rica. En el campo `Provincia` se encuentra el código para el campo correspondiente en la tabla de provincias.
 
 ### adm2-gadm.csv ###
 
 Asignaciones de ID para los shapefiles de nivel `adm2` de [GADM](http://www.gadm.org/).
 
-Por ejemplo, cuando estas usando [topojson](https://github.com/mbostock/topojson) para convertir un archivo de formato [GeoJSON](http://geojson.org/):
+Por ejemplo, cuando estás usando [topojson](https://github.com/mbostock/topojson) para convertir un archivo de formato [GeoJSON](http://geojson.org/):
 
 ```bash
 ogr2ogr \
@@ -42,7 +42,7 @@ topojson \
 
 ### adm3-distritos.csv ###
 
-Las 474 distritos de Costa Rica. En el campo `Canton` se encuentra el código para el campo correspondiente en la tabla de cantones.
+Los 474 distritos de Costa Rica. En el campo `Canton` se encuentra el código para el campo correspondiente en la tabla de cantones.
 
 ## Licencia ##
 
